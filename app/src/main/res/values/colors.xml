@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 colors are now defined in Kotlin: ui/theme/Color.kt -->
+    <!-- This file is kept only for legacy XML references (if any). -->
+    <!-- No need to duplicate the Material 3 palette here for Compose. -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand_green">#2E7D32</color>
+</resources>

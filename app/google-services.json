@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "192630285010",
+    "firebase_url": "https://entregable-ecolim-default-rtdb.firebaseio.com",
+    "project_id": "entregable-ecolim",
+    "storage_bucket": "entregable-ecolim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192630285010:android:65f61daf41c0668d62430b",
+        "android_client_info": {
+          "package_name": "com.madrigalsolu.ecolima"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1lq_zYN3UQ2tfciS6q8gO_cDrx3zcfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

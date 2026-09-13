@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base theme for splash window. Compose Material 3 (AppTheme/EntregableTheme)
+         takes over after setContent. Setting windowBackground prevents cold start white flash. -->
+    <style name="Theme.Entregable" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@color/brand_green</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@drawable/ic_splash_logo</item>
+    </style>
+</resources>
