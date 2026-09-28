@@ -1,10 +1,10 @@
-# EcolimApp
+# ecolim-app
 
-> Applicación mp�vil para el proceso de recolección y gestión de residuos, con soporte de base de datos local (SQLite) y conexión con Firebase.
+> Aplicación móvil para el proceso de recolección y gestión de residuos, con soporte de base de datos local (SQLite) y conexión con Firebase.
 
 ---
 
-## ✨ Características
+## Características
 
 - Módulo de autenticación y control de acceso.
 - Registro, consulta y actualización de entregas de materiales.
@@ -12,8 +12,7 @@
 
 ---
 
-
-## 🛠 Tecnologías
+## Tecnologías
 
 - Android (Java / Kotlin)
 - SQLite
@@ -21,9 +20,8 @@
 
 ---
 
-
-## 🚀 Requisitos de ejecución
+## Requisitos de ejecución
 
 1. Abrir en Android Studio.
-2. Configurar las dependencias y asegurar la inclusión de google-services.json en caso de requerir conexión a Firebase.
-3. Compilar y probar en un dispositivo movil on emulador.
+2. Configurar las dependencias y asegurar la inclusión de `google-services.json` en caso de requerir conexión a Firebase.
+3. Compilar y probar en un dispositivo móvil o emulador.
